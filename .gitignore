@@ -23,3 +23,12 @@ go.work.sum
 
 # env file
 .env
+
+# IDEA files
+.idea
+
+# Program binary
+errata-random-subscriptions-generator
+
+# Program output
+subscriptions.json
